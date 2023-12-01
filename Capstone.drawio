@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T23:37:18.047Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="M7TtU_0pgC19AEtwqHtb" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T23:48:37.336Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="Ezl7426NFo5UYvrv2Rvl" version="22.1.5" type="github">
   <diagram name="Page-1" id="L4g_c3EAHMDt9B9gxOwX">
-    <mxGraphModel dx="2322" dy="1620" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2563" dy="1796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,6 +128,9 @@
         <mxCell id="4XEcg5dc7mFZjT0D9GVV-18" value="Time&lt;br&gt;efficient" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="116" y="526" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="4XEcg5dc7mFZjT0D9GVV-74" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=60.00000000000001;exitDy=80;exitPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="4XEcg5dc7mFZjT0D9GVV-23" target="4XEcg5dc7mFZjT0D9GVV-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4XEcg5dc7mFZjT0D9GVV-23" value="Staying in touch" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="376" y="513" width="120" height="80" as="geometry" />
         </mxCell>
@@ -239,6 +242,12 @@
               <mxPoint x="-308" y="861" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4XEcg5dc7mFZjT0D9GVV-72" value="App that compiles data from weather, stocks, calendar, and allows for communication between colleagues/people of significance" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="236" y="689" width="170" height="201" as="geometry" />
+        </mxCell>
+        <mxCell id="4XEcg5dc7mFZjT0D9GVV-73" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="4XEcg5dc7mFZjT0D9GVV-18" target="4XEcg5dc7mFZjT0D9GVV-72">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
