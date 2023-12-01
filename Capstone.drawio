@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T20:30:54.289Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="mZZ_Gomnu9S0uV7ZrGlG" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T20:34:05.702Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="sxeMDlQOLa905GPooQL6" version="22.1.5" type="github">
   <diagram name="Page-1" id="L4g_c3EAHMDt9B9gxOwX">
-    <mxGraphModel dx="2322" dy="1620" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2563" dy="1796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -204,6 +204,9 @@
         <mxCell id="4XEcg5dc7mFZjT0D9GVV-60" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="4XEcg5dc7mFZjT0D9GVV-4" target="4XEcg5dc7mFZjT0D9GVV-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4XEcg5dc7mFZjT0D9GVV-70" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="4XEcg5dc7mFZjT0D9GVV-62" target="4XEcg5dc7mFZjT0D9GVV-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4XEcg5dc7mFZjT0D9GVV-62" value="Exercise before and after studying improves your memory and increase your cognitive performance. Certain foods boost brain." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-81" y="719" width="214" height="90" as="geometry" />
         </mxCell>
@@ -222,8 +225,20 @@
         <mxCell id="4XEcg5dc7mFZjT0D9GVV-67" value="Effective study tool that keeps track of exercise before and after session. recommends brain foods, and uses video games for more effective study techniques." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-674" y="628" width="224" height="251" as="geometry" />
         </mxCell>
-        <mxCell id="4XEcg5dc7mFZjT0D9GVV-68" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1.058;entryY=0.568;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="4XEcg5dc7mFZjT0D9GVV-62" target="4XEcg5dc7mFZjT0D9GVV-67">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="4XEcg5dc7mFZjT0D9GVV-69" value="Health app meant to optimize physical and mental abilities." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="911" width="169" height="171" as="geometry" />
+        </mxCell>
+        <mxCell id="4XEcg5dc7mFZjT0D9GVV-71" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4XEcg5dc7mFZjT0D9GVV-69" target="4XEcg5dc7mFZjT0D9GVV-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-308" y="911" as="sourcePoint" />
+            <mxPoint x="-258" y="861" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-152" y="1124" />
+              <mxPoint x="-258" y="911" />
+              <mxPoint x="-274" y="1017" />
+              <mxPoint x="-308" y="861" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
